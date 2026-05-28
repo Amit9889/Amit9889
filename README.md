@@ -70,14 +70,14 @@
 
 # 🏆 Developer Mindset
 
-```java
+java
 while(!success) {
     learn();
     build();
     improve();
     repeat();
 }
-```
+
 
 ---
 
