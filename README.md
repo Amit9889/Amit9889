@@ -50,7 +50,7 @@
 
 ## 🚀 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,angular,js,ts,html,css" />
 
 ## ⚙️ Tools & Technologies
 
