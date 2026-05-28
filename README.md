@@ -105,32 +105,6 @@ fun_fact:
 
 ---
 
-# 📈 GitHub Analytics
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amit9889&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-    
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit9889&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit9889&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
----
-
 # 🏆 Developer Mindset
 
 <br>
