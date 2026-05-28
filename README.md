@@ -12,14 +12,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2f6e9c1d-6f0d-4d78-9b7f-2d0d5ae0495c.gif" width="700"/>
-
-</div>
-
----
-
 # 💫 About Me
 
 ```yaml
@@ -108,11 +100,6 @@ fun_fact:
 
 </div>
 
----
-
-# 📊 Contribution Graph
-
-[![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit9889\&theme=tokyo-night\&hide_border=true)](https://github.com/Amit9889)
 
 ---
 
