@@ -2,9 +2,19 @@
 
 <div align="center">
 
-### 🚀 Modern Full-Stack Developer | Java Backend Engineer | Cloud & DevOps Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+Developer;Modern+Full-Stack+Engineer;Angular+%7C+Docker+%7C+Cloud+Explorer;Building+Scalable+Backend+Systems;Always+Learning+%26+Building" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Full-Stack+Engineer;Angular+%7C+Docker+%7C+Cloud;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Amit9889&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f6e9c1d-6f0d-4d78-9b7f-2d0d5ae0495c.gif" width="700"/>
 
 </div>
 
@@ -12,24 +22,38 @@
 
 # 💫 About Me
 
-💻 Passionate Full-Stack Developer focused on building scalable and modern web applications.
+```yaml
+name: Amit
+role: Full-Stack Developer
 
-⚡ Currently working with Java, Spring Boot, Angular, Docker, and Cloud technologies.
+currently_working_on:
+  - Java + Spring Boot Applications
+  - REST APIs & Backend Systems
+  - Angular Frontend Development
+  - Docker & Cloud Technologies
 
-🌱 Learning advanced backend architecture, DevOps, AI integration, and scalable system design.
+currently_learning:
+  - Advanced System Design
+  - DevOps & Kubernetes
+  - AI Integration in Applications
 
-🎯 Goal: Become a top-tier Software Engineer and build impactful products.
+goals_2026:
+  - Become a Top Software Engineer
+  - Build Scalable Real-World Products
+  - Crack High Paying Product Companies
 
-🔥 Love solving DSA problems, building real-world projects, and exploring modern technologies.
+fun_fact:
+  - I enjoy solving DSA problems more than debugging CSS 😅
+```
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/Amit9889" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/" target="_blank">
@@ -37,7 +61,7 @@
 </a>
 
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -48,15 +72,19 @@
 
 <div align="center">
 
-## 🚀 Languages & Frameworks
+### 🚀 Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,angular,js,ts,html,css" />
 
-## ⚙️ Tools & Technologies
+---
+
+### ⚙️ Tools & Databases
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,mysql,postgresql,mongodb,vscode,idea" />
 
-## ☁️ Cloud & DevOps
+---
+
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,jenkins,kubernetes" />
 
@@ -64,27 +92,51 @@
 
 ---
 
+# 📈 GitHub Analytics
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amit9889&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit9889&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit9889&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+[![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit9889\&theme=tokyo-night\&hide_border=true)](https://github.com/Amit9889)
 
 ---
 
 # 🏆 Developer Mindset
 
-java
-while(!success) {
+```java
+while (!success) {
+    
     learn();
+    
     build();
+    
     improve();
+    
     repeat();
 }
-
+```
 
 ---
 
 <div align="center">
 
-### ⚡ "Code. Learn. Build. Repeat." ⚡
+### ⚡ Code • Build • Scale • Repeat ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=footer"/>
 
-</
+</div>
