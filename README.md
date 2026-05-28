@@ -61,7 +61,7 @@ fun_fact:
 
   
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:amitsahu0073@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
