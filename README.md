@@ -30,11 +30,6 @@ currently_learning:
   - DevOps & Kubernetes
   - AI Integration in Applications
 
-goals_2026:
-  - Become a Top Software Engineer
-  - Build Scalable Real-World Products
-  - Crack High Paying Product Companies
-
 fun_fact:
   - I enjoy solving DSA problems more than debugging CSS 😅
 ```
